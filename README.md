@@ -1,19 +1,23 @@
 ### Hi, I'm Bea! 👋
 <hr>
 
-## About me ✍🏽
+#### About me ✍🏽
 <table>
   
   <tr>
     
   <td valign="center">
-    
-    🎓 I am currently pursuing my **Degree in Informatics Engineering**.
-    👩🏽‍💻 I am currently an intern at **Hylyght** with a **multicultural** and **multidisciplinary** team.
-    🎯 My favorite programming language is **Java**.
+    <p>
+      🎓 I am currently pursuing my <b>Degree in Informatics Engineering</b>.
+    </p>
+    <p>
+      👩🏽‍💻 I am currently an intern at <b>Hylyght</b> with a <b>multicultural</b> and <b>multidisciplinary</b> team.
+    </p>
+  
+  </td>
     
   <td>
-    <a href="https://www.hylyght.com/en"><img src="https://media-exp1.licdn.com/dms/image/C4E2DAQGOcoNkNcGQ5Q/profile-treasury-image-shrink_1280_1280/0/1647373317405?e=1647525600&v=beta&t=gPdyD-uAThhZGQkQQ_wBUwQD4QvabVbqw4jK7CNUhlw" width="300" alt="Hylyght Team"/></a>
+    <a href="https://www.hylyght.com/en"><img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/team.jfif" width="300" alt="Hylyght Team"/></a>
   </td>
     
 </tr>
