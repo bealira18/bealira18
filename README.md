@@ -23,12 +23,25 @@
   
 </table>
 
+---
 ### Connect with me 🤝🏼
+
 [<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/bealira/)
 [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub Logo" width="32">](https://github.com/bealira18)
 [<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/Gmail.svg" alt="Gmail Logo" width="32">](mailto:it.bealira@gmail.com)
 
-### Technologies
-[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/java.png" alt="Linkedin Logo" width="32">]()
-[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/c%23.png" alt="Linkedin Logo" width="32">]()
-[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/c.png" alt="Linkedin Logo" width="32">]()
+---
+### Technologies ⚙️
+
+#### Languages & Frameworks
+
+[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/java.png" alt="Java Logo" width="32">]()
+[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/angular.png" alt="Abgular Logo" width="32">]()
+[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/c%23.png" alt="C# Logo" width="32">]()
+[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/c.png" alt="C Logo" width="32">]()
+
+#### Tools
+[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/vsc.png" alt="Visual Studio Code Logo" width="32">]()
+[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/ij.png" alt="Intellij Logo" width="32">]()
+[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/postman.png" alt="Postman Logo" width="32">]()
+
