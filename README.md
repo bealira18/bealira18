@@ -1,7 +1,6 @@
-### Hi, I'm Bea! 👋
-<hr>
+## Hi, I'm Bea! 👋
 
-#### About me ✍🏽
+### About me ✍🏽
 <table>
   
   <tr>
@@ -26,4 +25,6 @@
 
 ### Connect with me 🤝🏼
 [<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/bealira/)
+[<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub Logo" width="32">](https://github.com/bealira18)
+[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/Gmail.svg" alt="Gmail Logo" width="32">](mailto:it.bealira@gmail.com)
 
