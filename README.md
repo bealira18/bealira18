@@ -24,3 +24,6 @@
   
 </table>
 
+### Connect with me 🤝🏼
+[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/bealira/)
+
