@@ -35,7 +35,7 @@
 
 #### Languages & Frameworks
 
-[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/java.png" alt="Java Logo" width="32">]()
+[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/java_logo.png" alt="Java Logo" width="32">]()
 [<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/angular.png" alt="Abgular Logo" width="32">]()
 [<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/c%23.png" alt="C# Logo" width="32">]()
 [<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/c.png" alt="C Logo" width="32">]()
