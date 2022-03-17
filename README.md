@@ -35,13 +35,13 @@
 
 #### Languages & Frameworks
 
-[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/java_logo.png" alt="Java Logo" width="32">]()
-[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/angular.png" alt="Abgular Logo" width="32">]()
-[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/c%23.png" alt="C# Logo" width="32">]()
-[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/c.png" alt="C Logo" width="32">]()
+[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/java_logo.png" alt="Java Logo" width="32">](https://www.oracle.com/pt/java/)
+[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/angular.png" alt="Angular Logo" width="32">](https://angular.io/)
+[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/c%23.png" alt="C# Logo" width="32">](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/c.png" alt="C Logo" width="32">](https://www.geeksforgeeks.org/c-language-set-1-introduction/)
 
 #### Tools
-[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/vsc.png" alt="Visual Studio Code Logo" width="32">]()
-[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/ij.png" alt="Intellij Logo" width="32">]()
-[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/postman.png" alt="Postman Logo" width="32">]()
+[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/vsc.png" alt="Visual Studio Code Logo" width="32">](https://code.visualstudio.com/)
+[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/ij.png" alt="Intellij Logo" width="32">](https://www.jetbrains.com/idea/)
+[<img src="https://github.com/bealira18/bealira18/blob/main/Main%20Page/postman.png" alt="Postman Logo" width="32">](https://www.postman.com/)
 
