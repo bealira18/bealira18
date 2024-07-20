@@ -7,10 +7,13 @@
     
   <td valign="center">
     <p>
-      🎓 I am currently pursuing my <b>Degree in Informatics Engineering</b>.
+      🎓 I have a <b>Degree in Informatics Engineering</b> and a <b>Postgraduate in Big Data & Decision Making</b>.
     </p>
     <p>
-      👩🏽‍💻 I am currently an intern at <b>Hylyght</b> with a <b>multicultural</b> and <b>multidisciplinary</b> team.
+      👩🏽‍💻 I was an intern at <b>Hylyght</b> with a <b>multicultural</b> and <b>multidisciplinary</b> team.
+    </p>
+    <p>
+      💻 I'm currently working at <b>Critical Manufacturing</b>
     </p>
   
   </td>
